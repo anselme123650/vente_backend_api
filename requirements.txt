@@ -1,0 +1,4 @@
+python -m venv devenv
+pip install django djangorestframework
+pip install django pillow
+pip install psycopg2-binary
